@@ -1,5 +1,6 @@
 Hardware files for April Brother
 
+* [April logger](april-logger)
 * [AB modbus gateway](ab-modbus-gateway)
 * [WUD](wud)
 * [AB BLE Gateway V4](ab-ble-gateway-v4)
