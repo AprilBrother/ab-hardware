@@ -1,5 +1,6 @@
 Hardware files for April Brother
 
+* [AB zigbee gateway](ab-zigbee-gateway)
 * [April logger](april-logger)
 * [AB modbus gateway](ab-modbus-gateway)
 * [WUD](wud)
