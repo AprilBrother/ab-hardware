@@ -14,4 +14,5 @@ Hardware files for April Brother
 * [April USB Dongle 52832](ab-usb-dongle-52832)
 * [ABSensor N01](n01)
 * [ABSensor N03](n03)
+* [N06](n06)
 * [ABSensor N07](n07)
