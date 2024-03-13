@@ -7,6 +7,7 @@ Hardware files for April Brother
 * [AB BLE Gateway V4](ab-ble-gateway-v4)
 * [ESP flasher rev6](esp-flasher-rev6)
 * [Abutton v3](abutton-v3)
+* [A4 button](abutton-v4)
 * [April soil moisture sensor](april-soil-moisture-sensor)
 * [April USB Dongle 52820](ab-usb-dongle-52820)
 * [April USB Dongle 52833](ab-usb-dongle-52833)
