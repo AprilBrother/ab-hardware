@@ -1,5 +1,6 @@
 Hardware files for April Brother
 
+* [Gateway c3/c3a](gateway-c3)
 * [AB zigbee gateway](ab-zigbee-gateway)
 * [April logger](april-logger)
 * [AB modbus gateway](ab-modbus-gateway)
